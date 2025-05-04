@@ -2,6 +2,8 @@
 
 A simple customizable Windows input dialog box application written in rust.
 
+![screenshot](images/ss.png)
+
 ## Features
 
 - Clean and simple input dialog box
