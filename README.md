@@ -35,40 +35,42 @@ The application looks for a file named `layout.txt` in the current directory to 
 You can modify any of these properties in the layout file:
 
 ```
+# Input Box Layout Configuration
+
 # Window title and message
-title=Input Box
-description=Enter your text:
+title=Test InputBox
+description=How are you doing today? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
 
 # Window dimensions
 window_width=400
-window_height=200
+window_height=250
 
 # Background panel
 bg_x=0
-bg_y=30
-bg_width=400
-bg_height=110
+bg_y=0
+bg_width=0
+bg_height=0
 
 # Label/description area
 label_x=10
-label_y=45
-label_width=380
-label_height=40
+label_y=10
+label_width=360
+label_height=120
 
 # Edit/input field
-edit_x=20
-edit_y=95
+edit_x=10
+edit_y=140
 edit_width=360
 edit_height=25
 
 # Buttons
-cancel_x=210
-cancel_y=150
-cancel_width=80
+cancel_x=220
+cancel_y=170
+cancel_width=70
 cancel_height=25
-ok_x=300
-ok_y=150
-ok_width=80
+ok_x=305
+ok_y=170
+ok_width=70
 ok_height=25
 ```
 
