@@ -1,6 +1,6 @@
-# Input Box
+# Rust Windows InputBox
 
-A simple customizable Windows input dialog box application.
+A simple customizable Windows input dialog box application written in rust.
 
 ## Features
 
