@@ -1,0 +1,37 @@
+# Input Box Layout Configuration
+
+# Window title and message
+title=Test InputBox
+description=How are you doing today? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+
+# Window dimensions
+window_width=400
+window_height=250
+
+# Background panel
+bg_x=0
+bg_y=0
+bg_width=0
+bg_height=0
+
+# Label/description area
+label_x=10
+label_y=10
+label_width=360
+label_height=120
+
+# Edit/input field
+edit_x=10
+edit_y=140
+edit_width=360
+edit_height=25
+
+# Buttons
+cancel_x=220
+cancel_y=170
+cancel_width=70
+cancel_height=25
+ok_x=305
+ok_y=170
+ok_width=70
+ok_height=25

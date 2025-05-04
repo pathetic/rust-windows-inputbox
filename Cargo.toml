@@ -1,0 +1,8 @@
+[package]
+name = "inputbox"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+winapi = { version = "0.3.9", features = ["libloaderapi", "tlhelp32", "utilapiset", "errhandlingapi", "dxgi1_2", "winerror", "synchapi", "securitybaseapi", "winuser", "wincon","shellapi", "oleauto"] }
+tokio = { version = "1", features = ["rt-multi-thread", "macros"] }
